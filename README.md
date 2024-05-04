@@ -1,7 +1,6 @@
-
-<div style="text-align: center">
 ![Header](github-header-image.png)
-</div>
+
+
 
 <h1 align="center">Hi 👋, I'm Elmir - Charlie Tanev</h1>
 <h3 align="center">Versatile Designer and Frontend Developer Crafting Exceptional Digital Experiences</h3>
