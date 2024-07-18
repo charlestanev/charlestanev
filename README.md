@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [React Groceries List App]([link](https://github.com/charlestanev/react-exercises))
+- 🔭 I’m currently working on my nex React Js App.
 
 - 👨‍💻 All of my projects are available at [charlie-dev.com](charlie-dev.com)
 
