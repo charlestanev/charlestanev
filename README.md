@@ -66,7 +66,7 @@
    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a> 
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> 
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPUOHUT7W7BYrmLIzbdFJiRQaB5pUKYhSzQ&s" alt="github_copilot" width="40" height="40"/> </a> 
+   <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="github_copilot" width="40" height="40"/> </a> 
    <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"> 
    <img src="	https://raw.githubusercontent.com/pheralb/svgl/main/static/library/openai_dark.svg" alt="Chat-gpt" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
