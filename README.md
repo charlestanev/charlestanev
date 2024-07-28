@@ -21,11 +21,10 @@
 </p>
 
 <br>
+<br>
 <p width="100%" align="center">
  <h3 align="center">💻 Tech Stack</h3>
 </p>
- <br>
-
 <p align="right" >
  <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
@@ -129,7 +128,7 @@
    </p>
    
    
-   <h3 align="left">🌐 Connect with me:</h2>
+   <h3 align="left">🌐 Connect with me:</h3>
    
    <p align="left">
      <a href="https://www.linkedin.com/in/elmir-tanev-843aab129/" target="_blank" rel="noreferrer">
