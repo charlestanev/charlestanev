@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 
  - 🚀 I’m currently working on my next React.js app.
 
@@ -13,20 +13,24 @@
  - 📧 How to reach me: charli.931@gmail.com, charli.931@aol.com
 
  - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
+
+</p>
+
 <br>
  <h3 align="center">💻 Tech Stack</h3>
 <br>
-<p align="right" >
- 
- 
 
- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
+<p align="right" >
+ <p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
  </p>
  
- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="49%" />
+ <p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="49%" />
  </p>
  
- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" width="49%" />
+ <p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" width="49%" />
  </p>
  <h2></h2>
 
