@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🚀 I’m currently working on my next React.js app.
+ - 🚀 I’m currently working on my next React.js app.
 
-🌐 All of my projects are available at charlie-dev.com
+ - 🌐 All of my projects are available at charlie-dev.com
 
-📧 How to reach me: charli.931@gmail.com, charli.931@aol.com
+ - 📧 How to reach me: charli.931@gmail.com, charli.931@aol.com
 
-🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
+ - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
