@@ -18,7 +18,6 @@
  
  <hr>
  <h3 align="center">💻 Tech Stack</h2>
- <br>
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
  </p>
  
@@ -118,7 +117,7 @@
    </p>
    
    
-   <h2 align="left">🌐 Connect with me:</h2>
+   <h3 align="left">🌐 Connect with me:</h2>
    
    <p align="left">
      <a href="https://www.linkedin.com/in/elmir-tanev-843aab129/" target="_blank" rel="noreferrer">
