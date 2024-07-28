@@ -16,7 +16,7 @@
 
  - 📧 How to reach me: charli.931@gmail.com, charli.931@aol.com
 
- - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
+ - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. <br>Married to the pursuit of perfection and dedicated to continuous improvement.
 
 </p>
 
