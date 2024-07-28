@@ -14,14 +14,8 @@
 
  - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elmir-tanev-843aab129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elmir-tanev-843aab129/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/charley.tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/charley.tanev/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/charles_tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/charles_tanev/" height="30" width="40" /></a>
-</p>
+
 <hr>
-<h2></h2>
 <h2 align="left">💻 Tech Stack</h3>
 <h3 align="left">Languages & Frameworks:</h3>
 <p align="left"> 
@@ -45,6 +39,8 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
+
+<h2></h2>
 
 <h3 align="left">Design Tools:</h3>
 <p align="left"> 
@@ -73,4 +69,10 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" />
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/elmir-tanev-843aab129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elmir-tanev-843aab129/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/charley.tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/charley.tanev/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/charles_tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/charles_tanev/" height="30" width="40" /></a>
 </p>
