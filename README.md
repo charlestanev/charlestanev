@@ -22,7 +22,7 @@
 <br>
 
 <p width="100%" align="center">
- <h3 align="center">💻 Tech Stack</h3><br>
+ <br><h3 align="center">💻 Tech Stack</h3><br>
 </p>
 <p align="right" >
  <p>
