@@ -67,23 +67,31 @@
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-
-<h3 align="left">Databases:</h3>
+<h3 align="left">Project Management:</h3>
 <p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-</p>
-
-
-  
-  
- 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
- 
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left"> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Basics:</h3>
+<p align="left"> 
+ <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a> 
+ <a href="https://www.yiiframework.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg" alt="yiiframework" width="40" height="40"/> </a> 
+</p>
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" />
