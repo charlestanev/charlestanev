@@ -13,32 +13,32 @@
  - 📧 How to reach me: charli.931@gmail.com, charli.931@aol.com
 
  - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
-
 <hr>
 <h2 align="left">💻 Tech Stack</h2>
+
 <h3 align="left">Languages & Frameworks:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
+  </a> 
 </p>
 
 <h3 align="left">Design Tools:</h3>
@@ -68,11 +68,26 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPUOHUT7W7BYrmLIzbdFJiRQaB5pUKYhSzQ&s" alt="github_copilot" width="40" height="40"/> 
+  </a>
+  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/openai_dark.svg" alt="Chat-gpt" width="40" height="40"/> 
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>
   <a href="https://www.codacy.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/codacy/codacy-icon.svg" alt="codacy" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/codacy/codacy-icon.svg" alt="codacy" width="40" height="40"/>
   </a>
 </p>
 
@@ -94,6 +109,7 @@
 </p>
 
 <h3 align="left">Basics:</h3>
+
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
@@ -102,13 +118,9 @@
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
   </a>
   <a href="https://www.yiiframework.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg" alt="yiiframework" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg" alt="yii framework" width="40" height="40"/> 
   </a>
 </p>
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" />
 </p>
