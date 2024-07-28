@@ -14,19 +14,25 @@
 
  - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
 
+<p align="right">
 
 <hr>
 <h2 align="left">💻 Tech Stack</h2>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="400px" />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="400px" />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="49%" />
 </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" width="400px" />
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" width="49%" />
 </p>
 
+<p>
+
+
+
+<p align="left" width="49%">
 
 
 <h5 align="left">Languages & Frameworks:</h5>
@@ -134,3 +140,5 @@
 
 
 
+
+</p>
