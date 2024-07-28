@@ -17,6 +17,18 @@
 
 <hr>
 <h2 align="left">💻 Tech Stack</h2>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="400px" />
+</p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="400px" />
+</p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" width="400px" />
+</p>
+
+
+
 <h5 align="left">Languages & Frameworks:</h5>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -119,23 +131,6 @@
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> 
   </a>
 </p>
-
-<div style="display: flex, flex-direction: row">
-    <p>
-&nbsp;
-<img align="canter" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
-</p>
-
-<p>
-&nbsp;
-<img align="canter" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="49%" />
-</p>
-
-<p>
-&nbsp;
-<img align="canter" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" width="49%" />
-</p>
-</div>
 
 
 
