@@ -43,14 +43,17 @@
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplini" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/balsamiq/balsamiq-icon.svg" alt="balsamiq" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> 
    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
- 
-  <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> 
+   <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="sketch" width="40" height="40"/> </a>
 </p>
 
