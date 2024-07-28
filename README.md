@@ -40,8 +40,6 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<h2></h2>
-
 <h3 align="left">Design Tools:</h3>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
