@@ -13,11 +13,13 @@
  - 📧 How to reach me: charli.931@gmail.com, charli.931@aol.com
 
  - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
-
+<br>
+ <h3 align="center">💻 Tech Stack</h3>
+<br>
 <p align="right" >
  
  
- <h3 align="center">💻 Tech Stack</h3>
+
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
  </p>
  
