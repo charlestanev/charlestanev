@@ -21,8 +21,10 @@
 </p>
 
 <br>
- <h3 align="center" width="100%">💻 Tech Stack</h3>
-<br>
+<p width="100%" align="center">
+ <h3 align="center">💻 Tech Stack</h3>
+</p>
+ <br>
 
 <p align="right" >
  <p>
