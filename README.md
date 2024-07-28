@@ -15,6 +15,7 @@
  - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
 
 
+
 <hr>
 <h2 align="left">💻 Tech Stack</h3>
 <h5 align="left">Languages & Frameworks:</h3>
@@ -83,14 +84,11 @@
    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
 </p>
 
-<h5 align="left">Databases:</h3>
-<p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-</p>
 
-<h5 align="left">Basics:</h3>
+<h5 align="left">Basics in:</h3>
 <p align="left"> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
@@ -98,6 +96,15 @@
  <a href="https://www.yiiframework.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg" alt="yiiframework" width="40" height="40"/> </a> 
 </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/elmir-tanev-843aab129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elmir-tanev-843aab129/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/charley.tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/charley.tanev/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/charles_tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/charles_tanev/" height="30" width="40" /></a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" />
 </p>
@@ -107,9 +114,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" />
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elmir-tanev-843aab129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elmir-tanev-843aab129/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/charley.tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/charley.tanev/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/charles_tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/charles_tanev/" height="30" width="40" /></a>
-</p>
+
