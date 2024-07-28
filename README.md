@@ -15,10 +15,9 @@
  - 🎨 Fun fact: Passionate about design and frontend development, committed to delivering excellence in every project. Married to the pursuit of perfection and dedicated to continuous improvement.
 
 
-
 <hr>
-<h2 align="left">💻 Tech Stack</h3>
-<h5 align="left">Languages & Frameworks:</h3>
+<h2 align="left">💻 Tech Stack</h2>
+<h5 align="left">Languages & Frameworks:</h5>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -40,7 +39,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<h5 align="left">Design Tools:</h3>
+<h5 align="left">Design Tools:</h5>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -58,7 +57,7 @@
    <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="sketch" width="40" height="40"/> </a>
 </p>
 
-<h5 align="left">Development Tools:</h3>
+<h5 align="left">Development Tools:</h5>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -74,9 +73,14 @@
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/> </a> 
+  <a href="https://discord.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="discord" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/microsoft_teams/microsoft_teams-icon.svg" alt="microsoft_teams" width="40" height="40"/> </a> 
 </p>
-
-<h5 align="left">Project Management and Basics in:</h3>
+<h5 align="left">Project Management and Basics in:</h5>
 <p align="left"> 
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
@@ -92,14 +96,26 @@
   <img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg" alt="yiiframework" width="40" height="40"/> </a> 
 </p>
 
-<h2></h2>
-<h2 align="left">Connect with me:</h3>
+
+<h2 align="left">🌐 Connect with me:</h2>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elmir-tanev-843aab129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elmir-tanev-843aab129/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/charley.tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/charley.tanev/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/charles_tanev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/charles_tanev/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/elmir-tanev-843aab129/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> 
+  </a>
+  <a href="https://www.facebook.com/charley.tanev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/charlestanev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> 
+  </a>
+  <a href="mailto:charli.931@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/> 
+  </a>
+  <a href="https://www.instagram.com/charles_tanev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> 
+  </a>
 </p>
-<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" />
 </p>
@@ -107,5 +123,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" />
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" />
 </p>
