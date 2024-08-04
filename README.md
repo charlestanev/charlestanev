@@ -9,7 +9,7 @@
  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
 
- - 🚀 I’m currently working on my next React.js app.
+ - 🚀 I’m currently working on my Next React app.
 
  - 🌐 All of my projects are available at charlie-dev.com
 
