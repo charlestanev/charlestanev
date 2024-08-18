@@ -67,9 +67,6 @@
     <a href="https://primereact.org/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/p/primereact-1.svg" alt="PrimeReact" width="40" height="40"/> 
     </a>
-    <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://seeklogo.com/vector-logo/519786/shadcn-ui" alt="Shadcn" width="40" height="40"/> 
-    </a>
    </p>
    
    <h5 align="left">Design Tools:</h5>
