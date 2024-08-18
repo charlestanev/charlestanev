@@ -64,6 +64,12 @@
      <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+    <a href="https://primereact.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://www.primefaces.org/wp-content/uploads/2020/05/primereact-logo.png" alt="PrimeReact" width="40" height="40"/> 
+    </a>
+    <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/shadcn/ui/main/public/favicon.svg" alt="shadcn/ui" width="40" height="40"/> 
+    </a>
    </p>
    
    <h5 align="left">Design Tools:</h5>
