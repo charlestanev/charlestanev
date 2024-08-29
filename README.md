@@ -68,8 +68,9 @@
      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/p/primereact-1.svg" alt="PrimeReact" width="40" height="40"/> 
     </a>
     <a href="https://headlessui.com/" target="_blank" rel="noreferrer">
-  <img src="https://headlessui.dev/images/headlessui.svg" alt="headlessui" width="40" height="40" />
+  <img src="https://github.com/tailwindlabs/headlessui/blob/main/website/public/android-chrome-192x192.png?raw=true" alt="headlessui" width="40" height="40" />
 </a>
+
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer motion" width="40" height="40" />
 </a>
