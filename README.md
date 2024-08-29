@@ -68,10 +68,10 @@
      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/p/primereact-1.svg" alt="PrimeReact" width="40" height="40"/> 
     </a>
     <a href="https://headlessui.com/" target="_blank" rel="noreferrer">
-  <img src="https://headlessui.dev/img/logo.png" alt="headlessui" width="40" height="40" />
+  <img src="https://headlessui.dev/images/headlessui.svg" alt="headlessui" width="40" height="40" />
 </a>
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-  <img src="https://www.framer.com/images/motion/logo.png" alt="framer motion" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer motion" width="40" height="40" />
 </a>
 <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
   <img src="https://ui.shadcn.com/favicon-32x32.png" alt="shadcn/ui" width="40" height="40" />
