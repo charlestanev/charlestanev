@@ -67,6 +67,22 @@
     <a href="https://primereact.org/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/p/primereact-1.svg" alt="PrimeReact" width="40" height="40"/> 
     </a>
+    <a href="https://headlessui.com/" target="_blank" rel="noreferrer">
+  <img src="https://headlessui.dev/img/logo.png" alt="headlessui" width="40" height="40" />
+</a>
+<a href="https://react.email/" target="_blank" rel="noreferrer">
+  <img src="https://react.email/static/icon.svg" alt="react.email" width="40" height="40" />
+</a>
+<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+  <img src="https://www.framer.com/images/motion/logo.png" alt="framer motion" width="40" height="40" />
+</a>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+  <img src="https://ui.shadcn.com/favicon-32x32.png" alt="shadcn/ui" width="40" height="40" />
+</a>
+<a href="https://primereact.org/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/29351225?s=200&v=4" alt="primereact" width="40" height="40" />
+</a>
+
    </p>
    
    <h5 align="left">Design Tools:</h5>
