@@ -70,9 +70,6 @@
     <a href="https://headlessui.com/" target="_blank" rel="noreferrer">
   <img src="https://headlessui.dev/img/logo.png" alt="headlessui" width="40" height="40" />
 </a>
-<a href="https://react.email/" target="_blank" rel="noreferrer">
-  <img src="https://react.email/static/icon.svg" alt="react.email" width="40" height="40" />
-</a>
 <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
   <img src="https://www.framer.com/images/motion/logo.png" alt="framer motion" width="40" height="40" />
 </a>
