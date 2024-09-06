@@ -80,6 +80,9 @@
 <a href="https://primereact.org/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/29351225?s=200&v=4" alt="primereact" width="40" height="40" />
 </a>
+<a href="https://www.primefaces.org/primeflex/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/157318?s=200&v=4" alt="primeflex" width="40" height="40" />
+</a>
 
    </p>
    
