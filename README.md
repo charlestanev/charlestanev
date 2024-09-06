@@ -82,7 +82,7 @@
 </a>
 
 <a href="https://primeflex.org/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/157318?s=200&v=4" alt="primeflex" width="40" height="40" />
+  <img src="https://www.primefaces.org/cdn/primeflex/images/PrimeFlexLogo.svg" alt="primeflex" width="40" height="40" />
 </a>
 
    </p>
