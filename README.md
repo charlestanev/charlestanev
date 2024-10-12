@@ -6,7 +6,6 @@
 <img align="right" alt="Coding-img" width="49%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 <p align="left">
-</br></br></br></br>
  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
 
@@ -25,6 +24,8 @@
 </p>
 
 <p align="right">
+ 
+</br></br></br></br>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
 </p>
 
