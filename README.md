@@ -24,8 +24,6 @@
 </p>
 
 <p align="right">
- 
-</br></br></br></br>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
 </p>
 
@@ -40,6 +38,7 @@
 <h2></h2>
 
 <p align="left" width="49%">
+</br></br></br></br>
 
 <h5 align="left">Languages & Frameworks:</h5>
 <p align="left">
