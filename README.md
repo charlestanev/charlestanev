@@ -7,6 +7,9 @@
 
 <p align="left">
  <span>&nbsp</span>
+ <span>&nbsp</span>
+ <span>&nbsp</span>
+ <span>&nbsp</span>
  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
 
