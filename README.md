@@ -8,8 +8,8 @@
 <p align="left">
  <p>&nbsp</p>
  <p>&nbsp</p>
- <span>&nbsp</span>
- <span>&nbsp</span>
+ <p>&nbsp</p>
+ <p>&nbsp</p>
  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
 
