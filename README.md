@@ -6,8 +6,8 @@
 <img align="right" alt="Coding-img" width="49%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 <p align="left">
- <span>&nbsp</span>
- <span>&nbsp</span>
+ <p>&nbsp</p>
+ <p>&nbsp</p>
  <span>&nbsp</span>
  <span>&nbsp</span>
  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
