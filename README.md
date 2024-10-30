@@ -84,6 +84,12 @@
   <a href="https://primeflex.org/" target="_blank" rel="noreferrer" title="PrimeFlex - CSS utility library from PrimeFaces">
     <img src="https://www.primefaces.org/cdn/primeflex/images/PrimeFlexLogo.svg" alt="primeflex" width="40" height="40"/>
   </a>
+ <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite - Next Generation Frontend Tooling">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" title="Webpack - Module Bundler">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  </a>
 </p>
 
 <h5 align="left">Design Tools:</h5>
