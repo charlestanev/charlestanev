@@ -90,6 +90,9 @@
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" title="Webpack - Module Bundler">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
   </a>
+   <a href="https://www.codacy.com/" target="_blank" rel="noreferrer" title="Codacy - Automated code quality reviews">
+    <img src="https://www.codacy.com/hubfs/Codacy_2023/Images/logo_codacy.svg" alt="codacy" width="40" height="40"/>
+  </a>
 </p>
 
 <h5 align="left">Design Tools:</h5>
@@ -148,9 +151,6 @@
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer" title="Microsoft Teams - Communication and collaboration platform">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshnMnsQcJcSIJnOd5gHzuuMOuKudrom62ZA&s" alt="microsoft_teams" width="40" height="40"/>
-  </a>
-  <a href="https://www.codacy.com/" target="_blank" rel="noreferrer" title="Codacy - Automated code quality reviews">
-    <img src="https://cdn.codacy.com/assets/logos/logo-short.svg" alt="codacy" width="40" height="40"/>
   </a>
 </p>
 
