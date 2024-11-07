@@ -153,7 +153,7 @@
     <img src="https://www.codacy.com/hubfs/Codacy_2023/Images/logo_codacy.svg" alt="codacy" width="40" height="40"/>
   </a>
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer" title="Bitbucket - Git-based source code repository">
-    <img src="https://wac-cdn.atlassian.com/dam/jcr:dcdcd229-88f9-4879-b43d-ada2d9d6e90e/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>
+    <img src="https://www.codacy.com/hubfs/Codacy_2023/Images/tree.svg" alt="bitbucket" width="40" height="40"/>
   </a>
 </p>
 
