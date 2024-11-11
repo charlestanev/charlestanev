@@ -39,6 +39,7 @@
 
 <p align="left" width="49%">
 </br></br></br></br>
+
 <h5 align="left">Languages & Frameworks:</h5>
 
 <h6>Frontend Languages:</h6>
@@ -68,6 +69,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  <a href="https://primeflex.org/" target="_blank" rel="noreferrer" title="PrimeFlex">
+    <img src="https://www.primefaces.org/cdn/primeflex/images/PrimeFlexLogo.svg" alt="primeflex" width="40" height="40"/>
+  </a>
 </p>
 
 <h6>JavaScript Libraries/Frameworks:</h6>
@@ -87,6 +91,9 @@
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer" title="Framer Motion">
     <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer motion" width="40" height="40"/>
   </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="Shadcn/UI">
+    <img src="https://ui.shadcn.com/favicon-32x32.png" alt="shadcn/ui" width="40" height="40"/>
+  </a>
 </p>
 
 <h6>State Management & Validation Libraries:</h6>
@@ -98,6 +105,17 @@
     <img src="https://jotai.org/favicon.svg" alt="jotai" width="40" height="40"/>
   </a>
 </p>
+
+<h6>Build Tools:</h6>
+<p align="left">
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" title="Webpack">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  </a>
+</p>
+
 
 <h5 align="left">Design Tools:</h5>
 <p align="left">
