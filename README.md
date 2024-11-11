@@ -40,9 +40,8 @@
 <p align="left" width="49%">
 </br></br></br></br>
 
-<h5 align="left">Languages & Frameworks:</h5>
 
-<h6>Frontend Languages:</h6>
+<h5>Frontend Languages:</h5>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -58,7 +57,7 @@
   </a>
 </p>
 
-<h6>CSS Frameworks:</h6>
+<h5>CSS Frameworks:</h5>
 <p align="left">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="Sass">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -74,7 +73,7 @@
   </a>
 </p>
 
-<h6>JavaScript Libraries/Frameworks:</h6>
+<h5>JavaScript Libraries/Frameworks:</h5>
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
@@ -96,7 +95,7 @@
   </a>
 </p>
 
-<h6>State Management & Validation Libraries:</h6>
+<h5>State Management & Validation Libraries:</h5>
 <p align="left">
   <a href="https://zod.dev/" target="_blank" rel="noreferrer" title="Zod">
     <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="zod" width="40" height="40"/>
@@ -106,7 +105,7 @@
   </a>
 </p>
 
-<h6>Build Tools:</h6>
+<h5>Build Tools:</h5>
 <p align="left">
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
@@ -115,6 +114,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
   </a>
 </p>
+
+<h5>Package Managers:</h5>
+<p align="left">
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="npm">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  </a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer" title="Yarn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
+  </a>
+  <a href="https://pnpm.io/" target="_blank" rel="noreferrer" title="pnpm">
+    <img src="https://pnpm.io/img/favicon.png" alt="pnpm" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 <h5 align="left">Design Tools:</h5>
