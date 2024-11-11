@@ -175,10 +175,11 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman - API platform for building and using APIs">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
- <br>
+
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer" title="Firebase - Platform for creating mobile and web applications">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+   <br>
   <a href="https://slack.com/" target="_blank" rel="noreferrer" title="Slack - Messaging app for teams">
     <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/>
   </a>
