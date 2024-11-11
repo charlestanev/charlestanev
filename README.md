@@ -90,6 +90,12 @@
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" title="Webpack - Module Bundler">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
   </a>
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer" title="Zod - TypeScript-first schema declaration and validation library">
+    <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="zod" width="40" height="40"/>
+  </a>
+  <a href="https://jotai.org/" target="_blank" rel="noreferrer" title="Jotai - Primitive and flexible state management for React">
+    <img src="https://jotai.org/favicon.svg" alt="jotai" width="40" height="40"/>
+  </a>
 </p>
 
 <h5 align="left">Design Tools:</h5>
