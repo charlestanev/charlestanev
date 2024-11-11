@@ -1,47 +1,37 @@
 ![Header](github-header-image.png)
-<br>
-&nbsp;
-<br>
-
-<img align="right" alt="Coding-img" width="49%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<br>&nbsp;<br>
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
 
 - 🚀 I’m currently working on my Next React app.
-
 - 🌐 All of my projects are available at charlie-dev.com
-
 - 📧 How to reach me: charli.931@gmail.com, charli.931@aol.com
-
 - 🎨 Fun fact: Passionate about design and frontend engineering, with over 5 years of experience delivering high-quality, user-centric solutions. Committed to excellence in every project, always striving for perfection and continuous improvement.
 
 <br>
 
-<p width="100%" align="center">
- <br><h3 align="center">💻 Tech Stack</h3><br>
+<img align="right" alt="Coding-img" width="49%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+
+<p align="center">
+ <h3 align="center">💻 Tech Stack</h3>
 </p>
 
-<p align="right">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
+### Stats:
+<p align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="45%" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="45%" />
+</p>
+<br><br><br><br>
+
+<p align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" width="90%" />
 </p>
 
-<p>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="49%" />
-</p>
+---
 
-<p>
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=charlestanev&" alt="charlestanev" width="49%" />
-</p>
-
-<h2></h2>
-
-<p align="left" width="49%">
-</br></br></br></br>
-
-
-<h5>Frontend Languages:</h5>
+### Frontend Languages:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -57,7 +47,7 @@
   </a>
 </p>
 
-<h5>CSS Frameworks:</h5>
+### CSS Frameworks:
 <p align="left">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="Sass">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -73,7 +63,7 @@
   </a>
 </p>
 
-<h5>JavaScript Libraries/Frameworks:</h5>
+### JavaScript Libraries/Frameworks:
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
@@ -95,7 +85,7 @@
   </a>
 </p>
 
-<h5>State Management & Validation Libraries:</h5>
+### State Management & Validation Libraries:
 <p align="left">
   <a href="https://zod.dev/" target="_blank" rel="noreferrer" title="Zod">
     <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="zod" width="40" height="40"/>
@@ -105,7 +95,7 @@
   </a>
 </p>
 
-<h5>Build Tools:</h5>
+### Build Tools:
 <p align="left">
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
@@ -115,7 +105,7 @@
   </a>
 </p>
 
-<h5>Package Managers:</h5>
+### Package Managers:
 <p align="left">
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="npm">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
@@ -128,9 +118,9 @@
   </a>
 </p>
 
+---
 
-
-<h5 align="left">Design Tools:</h5>
+### Design Tools:
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma - Interface design tool">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -155,7 +145,9 @@
   </a>
 </p>
 
-<h5 align="left">Development Tools:</h5>
+---
+
+### Development Tools:
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git - Version control system">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -195,7 +187,9 @@
   </a>
 </p>
 
-<h5 align="left">Project Management and Basics in:</h5>
+---
+
+### Project Management and Basics in:
 <p align="left">
   <a href="https://trello.com/" target="_blank" rel="noreferrer" title="Trello - Visual collaboration tool">
     <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/>
@@ -217,8 +211,9 @@
   </a>
 </p>
 
-<h3 align="left">🌐 Connect with me:</h3>
+---
 
+### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/elmir-tanev-843aab129/" target="_blank" rel="noreferrer" title="Connect with me on LinkedIn">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
