@@ -12,8 +12,6 @@
 
 <br>
 
-<img align="right" alt="Coding-img" width="49%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
-
 <p align="center">
  <h3 align="center">💻 Tech Stack</h3>
 </p>
@@ -23,6 +21,7 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="45%" />
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="45%" />
 </p>
+
 <br><br><br><br>
 
 <p align="center">
