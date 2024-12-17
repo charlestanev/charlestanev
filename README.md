@@ -24,8 +24,9 @@
 </p>
 
 <b>&nbsp;</b>
-</br></br></br>
+</br></br></br></br>
 <p>&nbsp;</p>
+<h2>&nbsp;</h2>
 <p align="right">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
 </p>
