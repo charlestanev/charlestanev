@@ -20,7 +20,7 @@
 <br>
 
 <p width="100%" align="center">
- <br><h3 align="center">💻 Tech Stack</h3><br>
+ <br><h3 align="center">💻 Tech Stack</h3>
 </p>
 
 
@@ -41,8 +41,7 @@
 <h2></h2>
 
 <p align="left" width="49%">
-</br></br></br></br>
-
+</br>
 
 <h5>Frontend Languages:</h5>
 <p align="left">
