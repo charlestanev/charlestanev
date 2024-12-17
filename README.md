@@ -25,6 +25,8 @@
 
 
 
+<p align="right"> <img align="right"  width="49%" ></p>
+ 
 <p align="right">
  <b align="right">&nbsp;</b>
 </br></br>
@@ -32,7 +34,6 @@
 </br>
 <b align="right">&nbsp;</b>
 </br>
-<p align="right"> <img align="right"  width="49%" ></p>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
 </p>
 
