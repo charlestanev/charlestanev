@@ -32,7 +32,7 @@
 </p>
 
 <p>
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev" alt="charlestanev" width="49%" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev" alt="GitHub Streak" /></a>
 </p>
 
 <h2></h2>
