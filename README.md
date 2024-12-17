@@ -7,7 +7,8 @@
   align="right" 
   alt="Coding-img" 
   width="40%" 
-  style="padding-left: 10px; padding-right: 10px;" 
+  style="padding-left: 10" 
+  class="pl-5"
   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" 
 />
 <p align="center">&nbsp;</p>
