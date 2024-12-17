@@ -25,24 +25,16 @@
 
 
 
-<p align="right"> <img align="right"  width="49%" ></p>
- 
-<p align="right">
- <b align="right">&nbsp;</b>
-</br></br>
-<p align="right">&nbsp;</p>
-</br>
-<b align="right">&nbsp;</b>
-</br>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
+<p align="center"> <img align="center"  width="49%" ></p>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev"/>
 </p>
 
-<p align="right">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="49%" />
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev"/>
 </p>
 
-<p align="right">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev" alt="GitHub Streak Stats" width="49%"  />
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev" alt="GitHub Streak Stats"/>
 </p>
 
 
