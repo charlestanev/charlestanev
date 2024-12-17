@@ -25,12 +25,12 @@
 
 
 
-<p align="center"> <img align="center"  width="49%" ></p>
+<p align="center"> <img align="center" width="494" height="194" ></p>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="494" height="194" />
 </p>
 
-<p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlestanev" alt="charlestanev"/>
+<p align="center"  width="494" height="194" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlestanev" alt="charlestanev"  width="494" height="194" />
 </p>
 
 <p align="center">
