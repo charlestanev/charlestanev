@@ -23,6 +23,8 @@
  <br><h3 align="center">💻 Tech Stack</h3><br>
 </p>
 </br></br></br>
+<b>&nbsp;</b>
+<h1>&nbsp;</h1>
 <p align="right">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
 </p>
