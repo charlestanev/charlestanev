@@ -24,15 +24,15 @@
 </p>
 <br>
 <p align="right">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="49%" />
 </p>
 
 <p>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="49%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=charlestanev&show_icons=true&locale=en" alt="charlestanev" width="49%" />
 </p>
 
 <p>
-  <img  align="right" src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev" alt="GitHub Streak Stats" />
 </p>
 
 
