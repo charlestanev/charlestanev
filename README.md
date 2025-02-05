@@ -79,6 +79,10 @@
   <a href="https://primeflex.org/" target="_blank" rel="noreferrer" title="PrimeFlex">
     <img src="https://www.primefaces.org/cdn/primeflex/images/PrimeFlexLogo.svg" alt="primeflex" width="40" height="40"/>
   </a>
+  <a href="https://daisyui.com/" target="_blank" rel="noreferrer" title="DaisyUI">
+    <img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/logo.svg" alt="DaisyUI" width="40" height="40"/>
+</a>
+
 </p>
 
 <h5>JavaScript Libraries/Frameworks:</h5>
