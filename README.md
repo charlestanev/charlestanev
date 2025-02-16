@@ -41,7 +41,9 @@
 </p>
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev&short_numbers=true" alt="GitHub Streak" /></a>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev&short_numbers=true" alt="GitHub Streak"   width="494" height="194" />
+  
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev" alt="GitHub Streak"   width="494" height="194" />
 </p>
 
 
