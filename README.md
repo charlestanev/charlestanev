@@ -20,7 +20,7 @@
 
 - 🌐 All of my projects are available at charlie-dev.com
 
-- 📧 How to reach me: charli.931@gmail.com, charli.931@aol.com
+- 📧 How to reach me: charlestanev.dev@gmail.com
 
 - 🎨 Fun fact: Passionate about design and frontend engineering, with over 5 years of experience delivering high-quality, user-centric solutions. Committed to excellence in every project, always striving for perfection and continuous improvement.
 
