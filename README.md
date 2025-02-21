@@ -18,7 +18,7 @@
 
 - 🚀 I’m currently working on my Next React app.
 
-- 🌐 All of my projects are available at charlie-dev.com
+- 🌐 All of my projects are available at [charlestanev.dev](https://charlestanev.dev/)
 
 - 📧 How to reach me: charlestanev.dev@gmail.com
 
