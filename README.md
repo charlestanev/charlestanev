@@ -16,7 +16,7 @@
  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
 
-- 🚀 I’m currently working on my Next React app.
+- 🚀 I’m currently working on my Next.js, React, Tailwind, TS apps.
 
 - 🌐 All of my projects are available at [charlestanev.dev](https://charlestanev.dev/)
 
