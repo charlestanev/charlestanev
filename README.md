@@ -22,7 +22,7 @@
 
 - 📧 How to reach me: charlestanev.dev@gmail.com
 
-- 🎨 Fun fact: Passionate about design and frontend engineering, with over 5 years of experience delivering high-quality, user-centric solutions. Committed to excellence in every project, always striving for perfection and continuous improvement.
+- 🎨 Fun fact: Passionate about frontend engineering and UI/UX design, with nearly 6 years of experience — 5 years professionally and 1.5 years working on personal projects. I am committed to delivering high-quality, user-centric solutions and always striving for continuous improvement.
 
 <br>
 
