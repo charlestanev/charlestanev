@@ -18,7 +18,7 @@
 
 - 🚀 I’m currently working on my Next.js, React, Tailwind, TS apps.
 
-- 🌐 All of my projects are available at [charlestanev.dev](https://charlestanev.dev/)
+- 🌐 Explore my work at" instead of [charlestanev.dev](https://charlestanev.dev/)
 
 - 📧 How to reach me: charlestanev.dev@gmail.com
 
