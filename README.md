@@ -17,6 +17,7 @@
 />
 <p align="center">&nbsp;</p>
 
+ <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" align="left" />
 - 🚀 I'm currently building multiple apps using Next.js, React, Tailwind, and TypeScript, working on them simultaneously to explore different features and approaches.
 
 - 🌐 Explore my work at [charlestanev.dev](https://charlestanev.dev/)
