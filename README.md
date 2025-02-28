@@ -61,28 +61,28 @@
   </a>
 </p>
 
-<h5>CSS Frameworks:</h5>
-<p align="left">
+<h5 align="center">CSS Frameworks:</h5>
+<p align="center">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="Sass">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
     <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://primeflex.org/" target="_blank" rel="noreferrer" title="PrimeFlex">
     <img src="https://www.primefaces.org/cdn/primeflex/images/PrimeFlexLogo.svg" alt="primeflex" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer" title="DaisyUI">
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/daisy.dark.svg" alt="DaisyUI" width="40" height="40"/>
 </a>
 
 </p>
 
-<h5>JavaScript Libraries/Frameworks:</h5>
-<p align="left">
+<h5 align="center">JavaScript Libraries/Frameworks:</h5>
+<p  align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
@@ -103,8 +103,8 @@
   </a>
 </p>
 
-<h5>State Management & Validation Libraries:</h5>
-<p align="left">
+<h5 align="center">State Management & Validation Libraries:</h5>
+<p align="center">
   <a href="https://zod.dev/" target="_blank" rel="noreferrer" title="Zod">
     <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="zod" width="40" height="40"/>
   </a>
@@ -116,8 +116,8 @@
   </a>
 </p>
 
-<h5>Build Tools:</h5>
-<p align="left">
+<h5 align="center">Build Tools:</h5>
+<p align="center">
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
   </a>
@@ -126,8 +126,8 @@
   </a>
 </p>
 
-<h5>Package Managers:</h5>
-<p align="left">
+<h5 align="center">Package Managers:</h5>
+<p align="center">
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="npm">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   </a>
@@ -141,8 +141,8 @@
 
 
 
-<h5 align="left">Design Tools:</h5>
-<p align="left">
+<h5 align="center">Design Tools:</h5>
+<p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma - Interface design tool">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
@@ -166,8 +166,8 @@
   </a>
 </p>
 
-<h5 align="left">Development Tools:</h5>
-<p align="left">
+<h5 align="center"">Development Tools:</h5>
+<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git - Version control system">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -208,8 +208,8 @@
   </a>
 </p>
 
-<h5 align="left">Project Management and Basics in:</h5>
-<p align="left">
+<h5 align="center">Project Management and Basics in:</h5>
+<p align="center">
   <a href="https://trello.com/" target="_blank" rel="noreferrer" title="Trello - Visual collaboration tool">
     <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/>
   </a>
@@ -230,9 +230,8 @@
   </a>
 </p>
 
-<h3 align="left">🌐 Connect with me:</h3>
-
-<p align="left">
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/elmir-tanev-843aab129/" target="_blank" rel="noreferrer" title="Connect with me on LinkedIn">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
