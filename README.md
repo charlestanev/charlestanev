@@ -4,24 +4,34 @@
   <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
 <h2></h2>
-<img 
-  align="right" 
-  alt="Coding-img" 
-  width="40%" 
-  style="padding-left: 20" 
-  class="pl-5"
-  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" 
-/>
+
+<div>
+  <p align="right">
+    <img 
+      align="right" 
+      alt="Coding-img" 
+      width="40%"
+      hight= ""
+      style="padding-left: 20" 
+      class="pl-5"
+      src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" 
+    />
+  </p>
+  <p align="left">
   &nbsp;
+    
+  - 🚀 I'm currently building multiple apps using JavaScript, TypeScript, React, Next.js, Tailwind, Shadcn UI, working on them simultaneously to explore different features and approaches.
   
-- 🚀 I'm currently building multiple apps using JavaScript, TypeScript, React, Next.js, Tailwind, Shadcn UI, working on them simultaneously to explore different features and approaches.
+  - 🌐 Explore my work at [charlestanev.dev](https://charlestanev.dev/)
+  
+  - 📧 How to reach me: charlestanev.dev@gmail.com
+  
+  - 🎨 Fun fact: I’ve spent nearly 6 years crafting frontend experiences</br>(5 professionally and 1 on personal projects). I love building fast, clean, and scalable solutions while always pushing to improve and stay ahead in the field.
+   
+  </p>
+</div>
 
-- 🌐 Explore my work at [charlestanev.dev](https://charlestanev.dev/)
-
-- 📧 How to reach me: charlestanev.dev@gmail.com
-
-- 🎨 Fun fact: I’ve spent nearly 6 years crafting frontend experiences</br>(5 professionally and 1 on personal projects). I love building fast, clean, and scalable solutions while always pushing to improve and stay ahead in the field.
-
+  
 <br>
 <h2></h2>
 <p width="100%" align="center">
