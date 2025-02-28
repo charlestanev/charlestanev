@@ -5,6 +5,7 @@
 &nbsp;
 <br>
 <br>
+&nbsp;&nbsp;
 <img 
   align="right" 
   alt="Coding-img" 
