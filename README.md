@@ -183,9 +183,6 @@
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer" title="ChatGPT - AI language model for conversational AI">
     <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/openai_dark.svg" alt="Chat-gpt" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman - API platform for building and using APIs">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer" title="Firebase - Platform for creating mobile and web applications">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>&nbsp;
@@ -215,12 +212,14 @@
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer" title="Xcode">
     <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" alt="Xcode" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer" title="Lighthouse">
-    <img src="https://raw.githubusercontent.com/GoogleChrome/lighthouse/main/assets/lighthouse-logo.png" alt="Lighthouse" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer" title="BrowserStack">
-    <img src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" alt="BrowserStack" width="40" height="40"/>
-  </a>&nbsp;
+<a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer" title="Lighthouse">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Lighthouse_Logo.svg" alt="Lighthouse" width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://www.browserstack.com/" target="_blank" rel="noreferrer" title="BrowserStack">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/BrowserStack-logo.svg" alt="BrowserStack" width="40" height="40"/>
+</a>&nbsp;
+
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>&nbsp;
