@@ -21,12 +21,10 @@
 - 🎨 Fun fact: I’ve spent nearly 6 years crafting frontend experiences</br>(5 professionally and 1 on personal projects). I love building fast, clean, and scalable solutions while always pushing to improve and stay ahead in the field.
 
 <br>
-
+<h2></h2>
 <p width="100%" align="center">
  <br>&nbsp;<br><h3 align="center">💻 Tech Stack</h3>
 </p>
-
-
 
 <p align="center"  width="494" height="194">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlestanev&show_icons=true&locale=en&layout=compact" alt="charlestanev" width="494" height="194" />
