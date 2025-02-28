@@ -13,6 +13,7 @@
   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" 
 />
   &nbsp;
+  
 - 🚀 I'm currently building multiple apps using JavaScript, TypeScript, React, Next.js, Tailwind, Shadcn UI, working on them simultaneously to explore different features and approaches.
 
 - 🌐 Explore my work at [charlestanev.dev](https://charlestanev.dev/)
