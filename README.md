@@ -18,7 +18,7 @@
 
 - 📧 How to reach me: charlestanev.dev@gmail.com
 
-- 🎨 Fun fact: I’ve spent nearly 6 years crafting frontend experiences</br>(5 professionally and 1 on personal projects) I love building fast, clean, and scalable solutions while always pushing to improve and stay ahead in the field.
+- 🎨 Fun fact: I’ve spent nearly 6 years crafting frontend experiences</br>(5 professionally and 1 on personal projects). I love building fast, clean, and scalable solutions while always pushing to improve and stay ahead in the field.
 
 <br>
 
@@ -110,6 +110,9 @@
   </a>
   <a href="https://jotai.org/" target="_blank" rel="noreferrer" title="Jotai">
     <img src="https://jotai.org/favicon.svg" alt="jotai" width="40" height="40"/>
+  </a>
+   <a href="https://axios-http.com/" target="_blank" rel="noreferrer" title="Axios - HTTP Client">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg" alt="axios" width="40" height="40"/>
   </a>
 </p>
 
