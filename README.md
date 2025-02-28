@@ -207,6 +207,27 @@
 </p>
 <h2></h2>
 
+<h3 align="center">Cross-Browser & Mobile Testing & Debugging Tools:</h3>
+<p align="center">
+  <a href="https://www.lambdatest.com/" target="_blank" rel="noreferrer" title="LambdaTest">
+    <img src="https://www.lambdatest.com/favicon.ico" alt="LambdaTest" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer" title="Xcode">
+    <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" alt="Xcode" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer" title="Lighthouse">
+    <img src="https://raw.githubusercontent.com/GoogleChrome/lighthouse/main/assets/lighthouse-logo.png" alt="Lighthouse" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer" title="BrowserStack">
+    <img src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" alt="BrowserStack" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>&nbsp;
+</p>
+<h2></h2>
+
+
 <h3 align="center">Project Management and Basics in:</h3>
 <p align="center">
   <a href="https://trello.com/" target="_blank" rel="noreferrer" title="Trello - Visual collaboration tool">
