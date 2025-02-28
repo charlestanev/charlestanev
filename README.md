@@ -213,7 +213,7 @@
     <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" alt="Xcode" width="40" height="40"/>
   </a>&nbsp;
 <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer" title="Lighthouse">
-  <img src="https://vectorwiki.com/logo/google-lighthouse-icon-may-2019" alt="Lighthouse" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-lighthouse-icon-may-2019-.svg" alt="Lighthouse" width="40" height="40"/>
 </a>&nbsp;
 
 <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer" title="BrowserStack">
