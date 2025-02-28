@@ -12,7 +12,7 @@
   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" 
 />
 
-- 🚀 I'm currently building multiple apps using Next.js, React, Tailwind, and TypeScript, working on them simultaneously to explore different features and approaches.
+- 🚀 I'm currently building multiple apps using JavaScript, TypeScript, React, Next.js, Tailwind, Shadcn UI, working on them simultaneously to explore different features and approaches.
 
 - 🌐 Explore my work at [charlestanev.dev](https://charlestanev.dev/)
 
@@ -45,8 +45,8 @@
 
 <p align="left" width="49%">
 
-<h5>Frontend Languages:</h5>
-<p align="left">
+<h5 align="center">Frontend Languages:</h5>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
