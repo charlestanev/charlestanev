@@ -12,10 +12,9 @@
   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" 
 />
 <p align="center">&nbsp;</p>
-<p align="center">
+<p align="left">
  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
-<p align="center">&nbsp;</p>
 
 
 - 🚀 I'm currently building multiple apps using Next.js, React, Tailwind, and TypeScript, working on them simultaneously to explore different features and approaches.
@@ -27,6 +26,7 @@
 - 🎨 Fun fact: Passionate about frontend engineering and UI/UX design, with nearly 6 years of experience — 5 years professionally and 1.5 years working on personal projects. I am committed to delivering high-quality, user-centric solutions and always striving for continuous improvement.
 
 <br>
+<p align="center">&nbsp;</p>
 
 <p width="100%" align="center">
  <br>&nbsp;<br><h3 align="center">💻 Tech Stack</h3>
