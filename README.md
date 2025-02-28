@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
-
-<br>
 &nbsp;&nbsp;
 <img 
   align="right" 
@@ -14,7 +12,6 @@
   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" 
 />
 
-
 - 🚀 I'm currently building multiple apps using Next.js, React, Tailwind, and TypeScript, working on them simultaneously to explore different features and approaches.
 
 - 🌐 Explore my work at [charlestanev.dev](https://charlestanev.dev/)
@@ -24,7 +21,6 @@
 - 🎨 Fun fact: I’ve spent nearly 6 years crafting frontend experiences (5 professionally and 1 on personal projects) I love building fast, clean, and scalable solutions while always pushing to improve and stay ahead in the field.
 
 <br>
-<p align="center">&nbsp;</p>
 
 <p width="100%" align="center">
  <br>&nbsp;<br><h3 align="center">💻 Tech Stack</h3>
