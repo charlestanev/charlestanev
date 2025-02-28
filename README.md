@@ -1,8 +1,7 @@
 ![Header](github-header-image.png)
-<div style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
+</p>
 
 <br>
 &nbsp;
