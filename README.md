@@ -12,9 +12,11 @@
   src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" 
 />
 <p align="center">&nbsp;</p>
-<p>
+<p align="center">
  <img src="https://komarev.com/ghpvc/?username=charlestanev&label=Profile%20views&color=0e75b6&style=flat" alt="charlestanev" />
 </p>
+<p align="center">&nbsp;</p>
+
 
 - 🚀 I'm currently building multiple apps using Next.js, React, Tailwind, and TypeScript, working on them simultaneously to explore different features and approaches.
 
