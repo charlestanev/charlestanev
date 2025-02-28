@@ -4,9 +4,6 @@
 </p>
 
 <br>
-&nbsp;
-<br>
-<br>
 &nbsp;&nbsp;
 <img 
   align="right" 
