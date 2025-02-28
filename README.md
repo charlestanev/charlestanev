@@ -40,12 +40,11 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=charlestanev&short_numbers=true" alt="GitHub Streak"   width="494" height="194" />
 </p>
 
-
 <h2></h2>
 
 <p align="left" width="49%">
 
-<h1 align="center">Frontend Languages:</h5>
+<h3 align="center">Frontend Languages:</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -60,8 +59,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>&nbsp;
 </p>
+<h2></h2>
 
-<h2 align="center">CSS Frameworks:</h5>
+<h3 align="center">CSS Frameworks:</h3>
 <p align="center">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="Sass">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -79,8 +79,9 @@
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/daisy.dark.svg" alt="DaisyUI" width="40" height="40"/>
   </a>&nbsp;
 </p>
+<h2></h2>
 
-<h3 align="center">JavaScript Libraries/Frameworks:</h5>
+<h3 align="center">JavaScript Libraries/Frameworks:</h3>
 <p  align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
@@ -101,8 +102,9 @@
     <img src="https://ui.shadcn.com/favicon-32x32.png" alt="shadcn/ui" width="40" height="40"/>
   </a>&nbsp;
 </p>
+<h2></h2>
 
-<h4 align="center">State Management & Validation Libraries:</h5>
+<h3 align="center">State Management & Validation Libraries:</h3>
 <p align="center">
   <a href="https://zod.dev/" target="_blank" rel="noreferrer" title="Zod">
     <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="zod" width="40" height="40"/>
@@ -114,8 +116,9 @@
     <img src="https://axios-http.com/assets/logo.svg" alt="axios" width="40" height="40"/>
   </a>&nbsp;
 </p>
+<h2></h2>
 
-<h5 align="center">Build Tools:</h5>
+<h3 align="center">Build Tools:</h3>
 <p align="center">
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
@@ -124,8 +127,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
   </a>&nbsp;
 </p>
+<h2></h2>
 
-<h5 align="center">Package Managers:</h5>
+<h3 align="center">Package Managers:</h3>
 <p align="center">
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="npm">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
@@ -137,10 +141,11 @@
     <img src="https://pnpm.io/img/favicon.png" alt="pnpm" width="40" height="40"/>
   </a>&nbsp;
 </p>
+<h2></h2>
 
 
 
-<h5 align="center">Design Tools:</h5>
+<h3 align="center">Design Tools:</h3>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma - Interface design tool">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -164,8 +169,9 @@
     <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="inkscape" width="40" height="40"/>
   </a>&nbsp;
 </p>
+<h2></h2>
 
-<h5 align="center"">Development Tools:</h5>
+<h3 align="center"">Development Tools:</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git - Version control system">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -204,8 +210,9 @@
     <img src="https://www.codacy.com/hubfs/Codacy_2023/Images/tree.svg" alt="bitbucket" width="40" height="40"/>
   </a>&nbsp;
 </p>
+<h2></h2>
 
-<h5 align="center">Project Management and Basics in:</h5>
+<h3 align="center">Project Management and Basics in:</h3>
 <p align="center">
   <a href="https://trello.com/" target="_blank" rel="noreferrer" title="Trello - Visual collaboration tool">
     <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/>
@@ -226,6 +233,7 @@
     <img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg" alt="yiiframework" width="40" height="40"/>
   </a>&nbsp;
 </p>
+<h2></h2>
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
