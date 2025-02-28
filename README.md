@@ -17,7 +17,6 @@
     />
   </p>
   <p align="left">
-  &nbsp;
     
   - 🚀 I'm currently building multiple apps using JavaScript, TypeScript, React, Next.js, Tailwind, Shadcn UI, working on them simultaneously to explore different features and approaches.
   
