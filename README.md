@@ -18,7 +18,7 @@
 
 - 📧 How to reach me: charlestanev.dev@gmail.com
 
-- 🎨 Fun fact: I’ve spent nearly 6 years crafting frontend experiences (5 professionally and 1 on personal projects) I love building fast, clean, and scalable solutions while always pushing to improve and stay ahead in the field.
+- 🎨 Fun fact: I’ve spent nearly 6 years crafting frontend experiences</br>(5 professionally and 1 on personal projects) I love building fast, clean, and scalable solutions while always pushing to improve and stay ahead in the field.
 
 <br>
 
