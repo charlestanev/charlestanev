@@ -10,7 +10,7 @@
     <img 
       align="right" 
       alt="Coding-img" 
-      width="40%"
+      width="50%"
       hight= ""
       style="padding-left: 20" 
       class="pl-5"
@@ -31,8 +31,6 @@
   </p>
 </div>
 
-  
-<br>
 <h2></h2>
 <p width="100%" align="center">
  <h3 align="center">💻 Tech Stack</h3>
