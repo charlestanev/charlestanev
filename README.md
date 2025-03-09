@@ -95,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/p/primereact-1.svg" alt="PrimeReact" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://headlessui.com/" target="_blank" rel="noreferrer" title="Headless UI">
-    <img src="https://static-00.iconduck.com/assets.00/brand-headlessui-icon-512x512-d245nuc3.png" alt="headlessui" width="40" height="40"/>
+    <img src="https://vectorwiki.com/images/sHLtN__headless-ui-icon.svg" alt="headlessui" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer" title="Framer Motion">
     <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer motion" width="40" height="40"/>
