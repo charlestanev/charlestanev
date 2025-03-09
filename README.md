@@ -179,7 +179,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" title="GitLab - DevOps platform">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="gitlab" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub - Code hosting platform for version control and collaboration">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
