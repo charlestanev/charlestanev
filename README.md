@@ -203,7 +203,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshnMnsQcJcSIJnOd5gHzuuMOuKudrom62ZA&s" alt="microsoft_teams" width="40" height="40"/>
   </a>&nbsp;
    <a href="https://www.codacy.com/" target="_blank" rel="noreferrer" title="Codacy - Automated code quality reviews">
-    <img src="https://www.codacy.com/hubfs/Codacy_2023/Images/logo_codacy.svg" alt="codacy" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/codacy/codacy-ar21.svg" alt="codacy" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer" title="Bitbucket - Git-based source code repository">
     <img src="https://www.codacy.com/hubfs/Codacy_2023/Images/tree.svg" alt="bitbucket" width="40" height="40"/>
